@@ -2,7 +2,7 @@
 #include <string>
 
 struct Employee {
-    std::string surname;
+    std::string lastname;
     int birthYear;
     std::string position;
     double salary;
